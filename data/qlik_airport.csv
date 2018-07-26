@@ -1,0 +1,100 @@
+rowid,airport,city,country,iatacode,icaocode,latitude,longitude,altitude,timezone,dst,tz
+5871,Moala Airport,Moala,Fiji,MFJ,NFMO,-18.5667,179.951,13,12,U,Pacific/Fiji
+7593,Arorae Island Airport,Arorae,Kiribati,AIS,NGTR,-2.633333,179.816667,6,10,U,\N
+5876,Koro Island Airport,Koro Island,Fiji,KXF,NFNO,-17.3458,179.422,358,12,U,Pacific/Fiji
+8745,Mys Shmidta Airport,Mys Shmidta,Russia,-,UHMI,68.868301,179.373001,20,12,N,Asia/Magadan
+5878,Savusavu Airport,Savusavu,Fiji,SVU,NFNS,-16.8028,179.341,17,12,U,Pacific/Fiji
+5872,Ngau Airport,Ngau,Fiji,NGI,NFNG,-18.1156,179.34,50,12,U,Pacific/Fiji
+5874,Labasa Airport,Lambasa,Fiji,LBS,NFNL,-16.466749,179.33986,44,12,U,Pacific/Fiji
+4077,Funafuti International,Funafuti,Tuvalu,FUN,NGFU,-8.525,179.196389,9,12,U,Pacific/Funafuti
+4096,Levuka Airfield,Levuka,Fiji,LEV,NFNB,-17.68333,178.83333,11,12,N,Pacific/Fiji
+1961,Nausori Intl,Nausori,Fiji,SUV,NFNA,-18.043267,178.559228,17,12,U,Pacific/Fiji
+5869,Vunisea Airport,Vunisea,Fiji,KDV,NFKD,-19.0581,178.157,6,12,U,Pacific/Fiji
+2012,Gisborne,Gisborne,New Zealand,GIS,NZGS,-38.663333,177.978333,15,12,Z,Pacific/Auckland
+6098,Ugolny Airport,Anadyr,Russia,DYR,UHMA,64.73495,177.741483,194,12,N,Asia/Magadan
+1960,Nadi Intl,Nandi,Fiji,NAN,NFFN,-17.755392,177.443378,59,12,U,Pacific/Fiji
+2043,Wairoa,Wairoa,New Zealand,-,NZWO,-39.006944,177.406667,42,12,Z,Pacific/Auckland
+5868,Malolo Lailai Island Airport,Malolo Lailai Island,Fiji,PTF,NFFO,-17.7779,177.197,10,12,U,Pacific/Fiji
+5870,Mana Island Airport,Mana Island,Fiji,MNF,NFMA,-17.6731,177.098,0,12,U,Pacific/Fiji
+5877,Rotuma Airport,Rotuma,Fiji,RTA,NFNR,-12.4825,177.071,22,12,U,Pacific/Fiji
+7783,Matamanoa Helipad,Matamanoa,Fiji,-,\N,-17.638056,177.066944,10,12,U,Pacific/Fiji
+2041,Whakatane,Whakatane,New Zealand,WHK,NZWK,-37.920556,176.914167,20,12,Z,Pacific/Auckland
+4095,Napier,NAPIER,New Zealand,NPE,NZNR,-39.465833,176.87,6,12,Z,Pacific/Auckland
+2016,Hastings,Hastings,New Zealand,-,NZHS,-39.646667,176.766944,72,12,Z,Pacific/Auckland
+7596,Nikunau Airport,Nikunau,Kiribati,NIG,NGNU,-1.35,176.45,10,12,U,Pacific/Tarawa
+2031,Rotorua,Rotorua,New Zealand,ROT,NZRO,-38.109167,176.317222,935,12,Z,Pacific/Auckland
+2034,Tauranga,Tauranga,New Zealand,TRG,NZTG,-37.671944,176.19611,13,12,Z,Pacific/Auckland
+2007,Taupo,Taupo,New Zealand,TUO,NZAP,-38.739723,176.084444,1335,12,Z,Pacific/Auckland
+7595,Beru Island Airport,Beru Island,Kiribati,BEZ,NGBR,-1.254722,176.007222,10,10,U,\N
+7594,Tamana Airport,Tamana,Kiribati,TMN,NGTM,-2.5,175.983333,10,12,U,Pacific/Tarawa
+7610,Whitianga Airport,Whitianga,New Zealand,WTZ,NZWT,-36.835833,175.700278,500,12,U,Pacific/Auckland
+2032,Waiouru,Waiouru,New Zealand,-,NZRU,-39.446389,175.658333,2686,12,Z,Pacific/Auckland
+2022,Masterton,Masterton,New Zealand,MRO,NZMS,-40.973333,175.633611,364,12,Z,Pacific/Auckland
+2028,Palmerston North,Palmerston North,New Zealand,PMR,NZPM,-40.320556,175.616944,151,12,Z,Pacific/Auckland
+2026,Ohakea,Ohakea,New Zealand,-,NZOH,-40.206039,175.387808,164,12,Z,Pacific/Auckland
+2015,Hamilton,Hamilton,New Zealand,HLZ,NZHN,-37.866661,175.332056,172,12,Z,Pacific/Auckland
+6834,Great Barrier Island,Claris,New Zealand,GBZ,NZGB,-36.1429,175.2819,10,12,Z,Pacific/Auckland
+2047,Wanganui,Wanganui,New Zealand,WAG,NZWU,-39.962222,175.025278,27,12,Z,Pacific/Auckland
+2029,Paraparaumu,Paraparaumu,New Zealand,PPQ,NZPP,-40.904722,174.989167,22,12,Z,Pacific/Auckland
+2008,Ardmore,Ardmore,New Zealand,AMZ,NZAR,-37.029722,174.973333,111,12,Z,Pacific/Auckland
+2042,Wellington Intl,Wellington,New Zealand,WLG,NZWN,-41.327221,174.805278,41,12,Z,Pacific/Auckland
+7601,Tabiteuea South Airport,Tabiteuea,Kiribati,TSU,NGTS,-1.35,174.8,10,10,U,\N
+2006,Auckland Intl,Auckland,New Zealand,AKL,NZAA,-37.008056,174.791667,23,12,Z,Pacific/Auckland
+1966,Tabiteuea North,Tabiteuea North,Kiribati,TBF,NGTE,-1.224469,174.775614,7,12,U,\N
+2044,Whenuapai,Whenuapai,New Zealand,-,NZWP,-36.787777,174.630278,100,12,Z,Pacific/Auckland
+7600,Nonouti Airport,Nonouti,Kiribati,NON,NGTO,-0.616667,174.366667,10,10,U,\N
+2045,Whangarei,Whangarei,New Zealand,WRE,NZWR,-35.768333,174.365,133,12,Z,Pacific/Auckland
+2023,New Plymouth,New Plymouth,New Zealand,NPL,NZNP,-39.008611,174.179167,97,12,Z,Pacific/Auckland
+3813,Eareckson As,Shemya,United States,SYA,PASY,52.712275,174.11362,98,-9,A,America/Anchorage
+4104,Koromiko,Picton,New Zealand,PCN,NZPN,-41.348333,173.955278,60,12,Z,Pacific/Auckland
+2017,Kerikeri,Kerikeri,New Zealand,KKE,NZKK,-35.262779,173.911944,492,12,Z,Pacific/Auckland
+2037,Woodbourne,Woodbourne,New Zealand,BHE,NZWB,-41.518333,173.870278,109,12,Z,Pacific/Auckland
+7590,Abemama Atoll Airport,Abemama,Kiribati,AEA,NGTB,0.490833,173.828611,8,12,U,Pacific/Tarawa
+4102,Kaikoura,Kaikoura,New Zealand,KBZ,NZKI,-42.416668,173.68333,19,12,Z,Pacific/Auckland
+7591,Aranuka Airport,Buariki,Kiribati,AAK,NGUK,0.185278,173.636389,6,10,U,\N
+7592,Kuria Airport,Kuria,Kiribati,KUC,NGKT,0.228611,173.410556,10,10,U,\N
+2018,Kaitaia,Kaitaia,New Zealand,KAT,NZKT,-35.07,173.285278,270,12,Z,Pacific/Auckland
+7589,Marakei Airport,Marakei,Kiribati,MZK,NGMK,2.050278,173.266667,10,12,U,Pacific/Tarawa
+2024,Nelson,Nelson,New Zealand,NSN,NZNS,-41.298333,173.221111,17,12,Z,Pacific/Auckland
+1965,Bonriki Intl,Tarawa,Kiribati,TRW,NGTA,1.381636,173.147036,9,12,U,Pacific/Tarawa
+7320,Abaiang Atoll Airport,Abaiang Atoll,Kiribati,ABF,NGAB,1.8,173.04,1,12,U,Pacific/Tarawa
+7599,Maiana Airport,Maiana,Kiribati,MNK,NGMA,0.933333,173,10,10,U,\N
+7598,Makin Airport,Makin,Kiribati,MTK,NGMN,3.383333,173,10,12,U,Pacific/Tarawa
+8983,Motueka,Motueka,New Zealand,MZP,NZMK,-41.123299,172.988998,39,12,Z,Pacific/Auckland
+7597,Butaritari Atoll Airport,Butaritari,Kiribati,BBG,NGTU,3.086521,172.811465,5,12,U,Pacific/Tarawa
+7611,Takaka Aerodrome,Takaka,New Zealand,KTF,NZTK,-40.85,172.8,500,12,U,Pacific/Auckland
+2040,Wigram,Wigram,New Zealand,-,NZWG,-43.551111,172.552778,74,12,Z,Pacific/Auckland
+2009,Christchurch Intl,Christchurch,New Zealand,CHC,NZCH,-43.489358,172.532225,123,12,Z,Pacific/Auckland
+7609,Enejit Airport,Enejit,Marshall Islands,EJT,\N,6.040278,171.984444,10,12,U,Pacific/Majuro
+7604,Tinak Airport,Tinak,Marshall Islands,TIC,\N,7.133333,171.916667,4,12,U,Pacific/Majuro
+5833,Mili Island Airport,Mili Island,Marshall Islands,MIJ,MLIP,6.08333,171.733,4,12,U,Pacific/Majuro
+2046,Westport,Westport,New Zealand,WSZ,NZWS,-41.738056,171.580833,13,12,Z,Pacific/Auckland
+7603,Ine Airport,Ine,Marshall Islands,IMI,\N,7.016667,171.483333,4,12,U,Pacific/Majuro
+2249,Marshall Islands Intl,Majuro,Marshall Islands,MAJ,PKMJ,7.064758,171.272022,6,12,U,Pacific/Majuro
+7608,Airok Airport,Airok,Marshall Islands,AIC,\N,7.1,171.233333,10,12,U,Pacific/Majuro
+5822,Maloelap Island Airport,Maloelap Island,Marshall Islands,MAV,-,8.70444,171.23,0,12,U,Pacific/Majuro
+2035,Timaru,Timaru,New Zealand,TIU,NZTU,-44.302778,171.225278,89,12,Z,Pacific/Auckland
+5816,Aur Island Airport,Aur Atoll,Marshall Islands,AUL,-,8.14528,171.173,0,12,U,Pacific/Majuro
+5828,Woja Airport,Majuro Atoll,Marshall Islands,WJA,-,7.083,171.133,0,12,U,Pacific/Majuro
+2027,Oamaru,Oamaru,New Zealand,OAM,NZOU,-44.97,171.081667,99,12,Z,Pacific/Auckland
+2014,Hokitika,Hokitika,New Zealand,HKK,NZHK,-42.713611,170.985278,146,12,Z,Pacific/Auckland
+5823,Mejit Atoll Airport,Mejit Atoll,Marshall Islands,MJB,Q30,10.2833,170.883,5,12,U,Pacific/Majuro
+5820,Kaben Airport,Kaben,Marshall Islands,KBT,-,8.90056,170.844,0,12,U,Pacific/Majuro
+2931,Pevek,Pevek,Russia,PWE,UHMP,69.783283,170.597006,11,12,N,\N
+9371,Markovo Airport,Markovo,Russia,KVM,UHMO,64.665278,170.414167,89,12,E,Asia/Magadan
+6511,Tekapo,Lake Tekapo,New Zealand,-,NZTL,-44,170.28,2,12,Z,Pacific/Auckland
+5829,Wotje Atoll Airport,Wotje Atoll,Marshall Islands,WTE,N36,9.46667,170.233,4,12,U,Pacific/Majuro
+5917,Futuna Airport,Futuna Island,Vanuatu,FTA,NVVF,-19.5164,170.232,0,11,U,Pacific/Efate
+2011,Dunedin,Dunedin,New Zealand,DUD,NZDN,-45.928055,170.198333,4,12,Z,Pacific/Auckland
+2020,Mount Cook,Mount Cook,New Zealand,GTN,NZMC,-43.764999,170.133333,2153,12,Z,Pacific/Auckland
+2013,Glentanner,Glentanner,New Zealand,MON,NZGT,-43.906666,170.128333,1824,12,Z,Pacific/Auckland
+2036,Pukaki,Pukaki,New Zealand,-,NZUK,-44.235,170.118333,1575,12,Z,Pacific/Auckland
+8481,Fox Glacier Airstrip,Fox Glacier,New Zealand,FGL,\N,-43.4,170.033,475,12,Z,Pacific/Auckland
+5815,Ailuk Airport,Ailuk Island,Marshall Islands,AIM,-,10.2168,169.983,0,12,U,Pacific/Majuro
+5814,Utirik Airport,Utirik Island,Marshall Islands,UTK,03N,11.222,169.852,4,12,U,Pacific/Majuro
+5914,Anelghowhat Airport,Anelghowhat,Vanuatu,AUY,NVVA,-20.2492,169.771,7,11,U,Pacific/Efate
+5827,Jaluit Airport,Jabor Jaluit Atoll,Marshall Islands,UIT,N55,5.90924,169.637,4,12,U,Pacific/Majuro
+5915,Aniwa Airport,Aniwa,Vanuatu,AWD,NVVB,-19.24,169.605,69,11,U,Pacific/Efate
+2019,Alexandra,Alexandra,New Zealand,ALR,NZLX,-45.211666,169.373333,752,12,Z,Pacific/Auckland
+5918,Ipota Airport,Ipota,Vanuatu,IPA,NVVI,-18.8783,169.308,23,11,U,Pacific/Efate
+5821,Likiep Airport,Likiep Island,Marshall Islands,LIK,-,9.82316,169.308,0,12,U,Pacific/Majuro

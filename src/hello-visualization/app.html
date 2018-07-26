@@ -1,0 +1,48 @@
+<div class="header">
+  <div class="left-content">
+    <span class="qliktive">QlikCore</span>
+    <span class="hello-visualization">Visualization</span>
+  </div>
+  <div class="right-content">
+    <div class="clear-selections" ng-click="$ctrl.clearAllSelections()" ng-class="{'disabled': !dataSelected}">Clear selections</div>
+  </div>
+</div>
+<div class="content" ng-click="$ctrl.clearAllSelections()">
+  <div class="container" ng-if="$ctrl.connected">
+    <div class="title">Top 50 most expensive movies</div>
+    <div>Comparison of top 50 most expensive movies and their imdb ratings</div>
+    <div id="chart-container-scatterplot" class="picasso-scatterplot"></div>
+  </div>
+  <div class="container" ng-if="$ctrl.connected">
+    <div></div>
+    <div id="chart-container-linechart" class="picasso-linechart"></div>
+  </div>
+</div>
+<div class="footer" ng-class="{'expanded': showFooter}">
+  <div>
+    <span class="lui-icon--top" ng-class="{'expanded': showFooter}" ng-click="toggleFooter()"></span>
+    <span class="footer-title">Seller Information</span>
+  </div>
+  <div class="info-wrapper" ng-show="dataSelected">
+    
+    <div class="movie-info">
+      <span class="info-title">Year</span>
+      <span class="movie-title"></span>
+      <span class="info-title">Rank</span>
+      <span class="movie-year"></span>
+      <span class="info-title">Title</span>
+      <span class="movie-genre"></span>
+      <span class="info-title">Asin</span>
+      <span class="movie-description"></span>
+    </div>
+  </div>
+  <div class="no-movie-selected" ng-show="!dataSelected">No Seller is selected</div>
+</div>
+
+<div class="error" ng-if="!$ctrl.connected && !$ctrl.connecting">
+  <div class="error-wrapper">
+    <span class="lui-icon--warning"></span>
+    <span class="error-title">Oops! Something went wrong.</span>
+    <span>{{$ctrl.error ? $ctrl.error : "Unexpected error"}}</span>
+  </div>
+</div>

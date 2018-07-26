@@ -1,0 +1,3 @@
+Movie,rowid,airport,city,country,iatacode,icaocode,latitude,longitude,altitude,timezone,dst,tz 
+Armageddon,5872,Arorae Island Airport,Arorae,Kiribati,AIS,NGTR,-2.633333,179.816667,6,10,U,Pacific/Fiji
+2012,5873,Moala Airport,Moala,Fiji,MFJ,NFMO,-18.5667,179.951,13,12,U,Pacific/Fiji 
